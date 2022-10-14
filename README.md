@@ -2,7 +2,7 @@
 
 <br>
 
-# Project-002: Language Cards (RP-02)
+# Language Cards (RP-02)
 
 ## Description
 
